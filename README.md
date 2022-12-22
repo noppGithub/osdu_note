@@ -17,7 +17,6 @@ OSDU will act as a platform to manage and stream the data from the platform to t
 ### Repositories
 - Open VDS: https://community.opengroup.org/osdu/platform/domain-data-mgmt-services/seismic/open-vds
 - Seismic Store: https://community.opengroup.org/osdu/platform/domain-data-mgmt-services/seismic/seismic-dms-suite/seismic-store-service
-- 
 
 
 ### Key features of OSDU platform
