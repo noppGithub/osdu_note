@@ -12,6 +12,7 @@ OSDU will act as a platform to manage and stream the data from the platform to t
 - [Halliburton](https://www.halliburton.com/en/events/managing-making-the-most-of-your-seismic-data-on-osdu)
 - [Schlumberger](https://www.software.slb.com/data/guide-to-osdu-data-platform)
 - [PaleoScan](https://www.eliis-geo.com/documents/Documents/Brochure_2022_web.pdf)
+- [CGG](https://www.cgg.com/industry-applications/digital/data-management-access)
 
 ### Repositories
 - Open VDS: https://community.opengroup.org/osdu/platform/domain-data-mgmt-services/seismic/open-vds
@@ -38,6 +39,9 @@ OSDU will act as a platform to manage and stream the data from the platform to t
   - ![storage_option](./img/fast_solutions.png)
 - There are options for the implementations as well
   - ![implementation_option](./img/vsd_implementations.png)
+- To work with Petrel 3D post stack, it's recommened to use `OpenZGY` format rather than `OpenVDS`
+  - `OpenZGY` also supported the `OpenVDS` conversion
+  - Schlumberger is support and developed the `OpenZGY` format
 
 ### Repositories
 - https://community.opengroup.org/osdu/platform/domain-data-mgmt-services/seismic/open-vds
@@ -50,3 +54,5 @@ OSDU will act as a platform to manage and stream the data from the platform to t
   - can we load to some application and export to see the difference?
 - How can I access the member only content?
   - ![login_member](img/login_osdu_member.png)
+- How could we integrate this standard with the existing seismic data management system?
+  - Prosource ?
