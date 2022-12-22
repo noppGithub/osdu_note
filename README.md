@@ -55,3 +55,4 @@ OSDU will act as a platform to manage and stream the data from the platform to t
   - ![login_member](img/login_osdu_member.png)
 - How could we integrate this standard with the existing seismic data management system?
   - Prosource ?
+- When the `OpenVDS` will support the velocity model?
