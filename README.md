@@ -15,11 +15,6 @@ OSDU will act as a platform to manage and stream the data from the platform to t
 - [PaleoScan](https://www.eliis-geo.com/documents/Documents/Brochure_2022_web.pdf)
 - [CGG](https://www.cgg.com/industry-applications/digital/data-management-access)
 
-### Repositories
-- Open VDS: https://community.opengroup.org/osdu/platform/domain-data-mgmt-services/seismic/open-vds
-- Seismic Store: https://community.opengroup.org/osdu/platform/domain-data-mgmt-services/seismic/seismic-dms-suite/seismic-store-service
-
-
 ### Key features of OSDU platform
 - Decouple the data from the (geo)application.
 - We can use blob storage which is much cheaper than the normal storage.
