@@ -45,6 +45,9 @@ OSDU will act as a platform to manage and stream the data from the platform to t
 - What is [FAST](https://bluware.com/blog/what-is-bluware-fast-and-how-does-it-work/)
 
 
+### Repositories
+- Issues: https://community.opengroup.org/osdu/platform/system/sdks/common-python-sdk/-/issues
+
 ### My questions
 - How to ensure that the data converted to `OPENVDS` is the same as the original data?
   - can we convert back and compare the hash ?
